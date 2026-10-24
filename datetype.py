@@ -6,3 +6,4 @@ c = "hello"
 print("type of c",type(c))
 d = False
 print("type of d",type(d))
+
